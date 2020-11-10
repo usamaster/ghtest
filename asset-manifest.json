@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/usamaster.github.io/ghtest/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/usamaster.github.io/ghtest/static/js/main.ccaa65a5.chunk.js",
+    "main.js.map": "/usamaster.github.io/ghtest/static/js/main.ccaa65a5.chunk.js.map",
+    "runtime-main.js": "/usamaster.github.io/ghtest/static/js/runtime-main.e1a3d5e6.js",
+    "runtime-main.js.map": "/usamaster.github.io/ghtest/static/js/runtime-main.e1a3d5e6.js.map",
+    "static/js/2.ff8f9cd6.chunk.js": "/usamaster.github.io/ghtest/static/js/2.ff8f9cd6.chunk.js",
+    "static/js/2.ff8f9cd6.chunk.js.map": "/usamaster.github.io/ghtest/static/js/2.ff8f9cd6.chunk.js.map",
+    "static/js/3.e894346b.chunk.js": "/usamaster.github.io/ghtest/static/js/3.e894346b.chunk.js",
+    "static/js/3.e894346b.chunk.js.map": "/usamaster.github.io/ghtest/static/js/3.e894346b.chunk.js.map",
+    "index.html": "/usamaster.github.io/ghtest/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/usamaster.github.io/ghtest/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ff8f9cd6.chunk.js.LICENSE.txt": "/usamaster.github.io/ghtest/static/js/2.ff8f9cd6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/usamaster.github.io/ghtest/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1a3d5e6.js",
+    "static/js/2.ff8f9cd6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ccaa65a5.chunk.js"
+  ]
+}
